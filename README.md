@@ -1,2 +1,1 @@
-# app-nextap
-Nextap NextJS App
+# Nextap NextJS App
